@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "うつつと空の放送",
+  "base_artist": "凍傷のエト",
+  "createdAt": "2026-02-14T04:47:34.047005Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うつつと空の放送",
+      "artist": "凍傷のエト",
+      "has_synced": false,
+      "path": "select/pl_01_うつつと空の放送_凍傷のエト.txt"
+    }
+  ]
+}
